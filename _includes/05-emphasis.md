@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Here are *my* **skillz**:
+
+## Active Directory
+- Group Policy
+- On prem
+- DFSR
